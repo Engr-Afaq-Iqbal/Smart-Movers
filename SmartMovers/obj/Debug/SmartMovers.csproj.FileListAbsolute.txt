@@ -1,0 +1,37 @@
+C:\Users\AFAQ IQBAL\OneDrive\Desktop\SmartMovers\SmartMovers\bin\Debug\SmartMovers.exe.config
+C:\Users\AFAQ IQBAL\OneDrive\Desktop\SmartMovers\SmartMovers\obj\Debug\SmartMovers.csprojResolveAssemblyReference.cache
+C:\Users\AFAQ IQBAL\OneDrive\Desktop\SmartMovers\SmartMovers\obj\Debug\SmartMovers.CustomersForm.resources
+C:\Users\AFAQ IQBAL\OneDrive\Desktop\SmartMovers\SmartMovers\obj\Debug\SmartMovers.DepotsForm.resources
+C:\Users\AFAQ IQBAL\OneDrive\Desktop\SmartMovers\SmartMovers\obj\Debug\SmartMovers.JobForm.resources
+C:\Users\AFAQ IQBAL\OneDrive\Desktop\SmartMovers\SmartMovers\obj\Debug\SmartMovers.Job_Load.resources
+C:\Users\AFAQ IQBAL\OneDrive\Desktop\SmartMovers\SmartMovers\obj\Debug\SmartMovers.LoginForm.resources
+C:\Users\AFAQ IQBAL\OneDrive\Desktop\SmartMovers\SmartMovers\obj\Debug\SmartMovers.MainMenuForm.resources
+C:\Users\AFAQ IQBAL\OneDrive\Desktop\SmartMovers\SmartMovers\obj\Debug\SmartMovers.PaymentDetailsForm.resources
+C:\Users\AFAQ IQBAL\OneDrive\Desktop\SmartMovers\SmartMovers\obj\Debug\SmartMovers.ProductForm.resources
+C:\Users\AFAQ IQBAL\OneDrive\Desktop\SmartMovers\SmartMovers\obj\Debug\SmartMovers.Properties.Resources.resources
+C:\Users\AFAQ IQBAL\OneDrive\Desktop\SmartMovers\SmartMovers\obj\Debug\SmartMovers.TransportUnitForm.resources
+C:\Users\AFAQ IQBAL\OneDrive\Desktop\SmartMovers\SmartMovers\obj\Debug\SmartMovers.csproj.GenerateResource.Cache
+C:\Users\AFAQ IQBAL\OneDrive\Desktop\SmartMovers\SmartMovers\bin\Debug\SmartMovers.exe
+C:\Users\AFAQ IQBAL\OneDrive\Desktop\SmartMovers\SmartMovers\bin\Debug\SmartMovers.pdb
+C:\Users\AFAQ IQBAL\OneDrive\Desktop\SmartMovers\SmartMovers\obj\Debug\SmartMovers.exe
+C:\Users\AFAQ IQBAL\OneDrive\Desktop\SmartMovers\SmartMovers\obj\Debug\SmartMovers.pdb
+F:\@MyFiverrProjects\Database work\Project\Project Smart Movers\SmartMovers\SmartMovers\bin\Debug\SmartMovers.exe.config
+F:\@MyFiverrProjects\Database work\Project\Project Smart Movers\SmartMovers\SmartMovers\obj\Debug\SmartMovers.exe
+F:\@MyFiverrProjects\Database work\Project\Project Smart Movers\SmartMovers\SmartMovers\obj\Debug\SmartMovers.pdb
+F:\@MyFiverrProjects\Programming Projects\Project\Project Smart Movers\SmartMovers\SmartMovers\bin\Debug\SmartMovers.exe.config
+F:\@MyFiverrProjects\Programming Projects\Project\Project Smart Movers\SmartMovers\SmartMovers\obj\Debug\SmartMovers.exe
+F:\@MyFiverrProjects\Programming Projects\Project\Project Smart Movers\SmartMovers\SmartMovers\obj\Debug\SmartMovers.pdb
+F:\@MyFiverrProjects\Programming Projects\Project\Project Smart Movers\SmartMovers\SmartMovers\bin\Debug\SmartMovers.exe
+F:\@MyFiverrProjects\Programming Projects\Project\Project Smart Movers\SmartMovers\SmartMovers\bin\Debug\SmartMovers.pdb
+F:\@MyFiverrProjects\Programming Projects\Project\Project Smart Movers\SmartMovers\SmartMovers\obj\Debug\SmartMovers.csprojResolveAssemblyReference.cache
+F:\@MyFiverrProjects\Programming Projects\Project\Project Smart Movers\SmartMovers\SmartMovers\obj\Debug\SmartMovers.CustomersForm.resources
+F:\@MyFiverrProjects\Programming Projects\Project\Project Smart Movers\SmartMovers\SmartMovers\obj\Debug\SmartMovers.DepotsForm.resources
+F:\@MyFiverrProjects\Programming Projects\Project\Project Smart Movers\SmartMovers\SmartMovers\obj\Debug\SmartMovers.JobForm.resources
+F:\@MyFiverrProjects\Programming Projects\Project\Project Smart Movers\SmartMovers\SmartMovers\obj\Debug\SmartMovers.Job_Load.resources
+F:\@MyFiverrProjects\Programming Projects\Project\Project Smart Movers\SmartMovers\SmartMovers\obj\Debug\SmartMovers.LoginForm.resources
+F:\@MyFiverrProjects\Programming Projects\Project\Project Smart Movers\SmartMovers\SmartMovers\obj\Debug\SmartMovers.MainMenuForm.resources
+F:\@MyFiverrProjects\Programming Projects\Project\Project Smart Movers\SmartMovers\SmartMovers\obj\Debug\SmartMovers.PaymentDetailsForm.resources
+F:\@MyFiverrProjects\Programming Projects\Project\Project Smart Movers\SmartMovers\SmartMovers\obj\Debug\SmartMovers.ProductForm.resources
+F:\@MyFiverrProjects\Programming Projects\Project\Project Smart Movers\SmartMovers\SmartMovers\obj\Debug\SmartMovers.Properties.Resources.resources
+F:\@MyFiverrProjects\Programming Projects\Project\Project Smart Movers\SmartMovers\SmartMovers\obj\Debug\SmartMovers.TransportUnitForm.resources
+F:\@MyFiverrProjects\Programming Projects\Project\Project Smart Movers\SmartMovers\SmartMovers\obj\Debug\SmartMovers.csproj.GenerateResource.Cache
